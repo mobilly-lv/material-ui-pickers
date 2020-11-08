@@ -1,7 +1,6 @@
 {
-  "name": "@material-ui/pickers",
+  "name": "@mobillytx/pickers",
   "version": "4.0.0-alpha.12",
-  "private": true,
   "description": "React components, that implements material design pickers for material-ui v4",
   "main": "./src/index.ts",
   "module": "./src/index.ts",
@@ -25,7 +24,7 @@
   "homepage": "https://material-ui-pickers.dev/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mui-org/material-ui-pickers"
+    "url": "git+https://github.com/mobilly-lv/material-ui-pickers.git"
   },
   "author": {
     "name": "Dmitriy Kovalenko",
