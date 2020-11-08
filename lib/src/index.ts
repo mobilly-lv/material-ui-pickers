@@ -14,6 +14,8 @@ export * from './DateRangePicker/DateRangePicker';
 
 export { DateRangePickerToolbar } from './DateRangePicker/DateRangePickerToolbar';
 
+export { DateRangeDay as PickersDateRangeDay } from  './DateRangePicker/DateRangePickerDay';
+
 export { Calendar as PickersCalendar } from './views/Calendar/Calendar';
 
 export { CalendarView as PickersCalendarView } from './views/Calendar/CalendarView';
